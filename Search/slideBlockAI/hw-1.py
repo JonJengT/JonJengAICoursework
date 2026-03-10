@@ -150,6 +150,8 @@ if "__main__":
     args = parser.parse_args()
 
     game = PuzzleGame([[3,5,1],[7,0,6],[4,8,2]])
+    #switch to: "game = PuzzleGame()" if you want a randomized map
+
 
     print("Try to get the blank space (.) to the top-left and numbers 1-8 in order!")
     game.display()   
