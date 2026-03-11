@@ -1,5 +1,7 @@
 This repository is a collection of my coursework from my Principles of Artificial Intelligence course. 
 
+If there are any questions, I'd love to have a chat about these projects.
+
 There are 4 main units of artificial intelligence that we are covering:
 
 Search - Complete
